@@ -1,5 +1,5 @@
 <p align="center">
-  <h1>🎯 SmartHire AI: End-to-End Resume Screening Suite</h1>
+  <h1>SmartHire AI: End-to-End Resume Screening Suite</h1>
   <h3>An intelligent NLP pipeline featuring Multi-Class Domain Classification and Semantic Skill-Gap Analytics</h3>
 </p>
 
