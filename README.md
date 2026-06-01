@@ -5,7 +5,7 @@
 
 ---
 
-## 🚀 System Architecture & Core Features
+## System Architecture & Core Features
 
 - **Two-Stage Intelligence Pipeline:** Processes raw text streams extracted from multi-page candidate PDF files using customized lexical cleaning array procedures.
 - **Supervised Domain Classification:** Utilizes an integrated Scikit-Learn classification model to predict candidate industry specializations with high operational precision.
@@ -13,13 +13,13 @@
 - **AI Skill-Gap Discrepancy Matrix:** Features a built-in automated keyword parsing and token comparison engine that analyzes text arrays to instantly identify missing requirements for talent acquisition teams.
 - **Tailored Light UI Canvas:** Deployed an executive, high-contrast user interface engineered entirely with responsive Streamlit layout assets.
 
-## 🛠️ Technical Stack
+##  Technical Stack
 - **Language:** Python
 - **Machine Learning & NLP:** Scikit-Learn, Feature Extraction Matrices, Joblib
 - **Data Engineering:** Pandas, NumPy, PyPDF2, Regular Expressions (Regex)
 - **UI Framework:** Streamlit
 
-## 📦 Quick Installation & Local Deployment
+## Quick Installation & Local Deployment
 
 1. **Clone this repository infrastructure:**
 ```bash
